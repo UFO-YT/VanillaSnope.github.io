@@ -1,5 +1,5 @@
 body {
-    background-color: #231633;
+    background-color:rgb(65, 15, 65);
 font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif, arial, sans-serif;
 }
 a{
@@ -17,7 +17,7 @@ h1, h2, h3, {
 }
 
 #header {
-    background-color:rgb(187, 43, 43);
+    background-color:rgb(244, 252, 135);
     text-align: center;
     padding: 10px;
 }
